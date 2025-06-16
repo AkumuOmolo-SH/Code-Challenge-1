@@ -4,7 +4,7 @@ function estimateTransactionFee(amountToSend) {
     const calculatedFee = amountToSend * basicFee;
     let fee;
 
-    if (calculatedFeeFee < 10) {
+    if (calculatedFee < 10) {
         fee = 10; //Minimum fee 
     } else if (calculatedFee > 70) {
         fee = 70; //Maximum fee
@@ -24,3 +24,10 @@ function estimateTransactionFee(amountToSend) {
 //Prompt user to enter an amount
 const input = prompt("Unatuma Ngapi? (KES):");
 const amountToSend = parseFloat(input);
+
+if (amountToSend > 0) {
+    estimateTransactionFee(amountToSend);
+} else {
+    console.log("Tafadhali andika kiasi halali.");
+}
+
