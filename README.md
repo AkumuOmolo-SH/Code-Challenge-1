@@ -7,7 +7,7 @@ All final solutions are organized and presented in this GitHub repository as par
 
 **#Description** 
 
-This repository includes 3 JavaScript programs developed for Phase-01, Code challenge - 01.
+This repository includes JavaScript programs developed for Phase-01, Code challenge - 01. As part of the challenge, I worked on 3 problems:
 
 1. **Chai Calculator** – Calculates ingredients for making Kenyan chai based on the number of cups.
 2. **Boda Boda Fare Estimator** – Estimates the total fare for a boda boda ride based on distance.
