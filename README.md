@@ -13,7 +13,7 @@ This repository includes JavaScript programs developed for Phase-01, Code challe
 2. **Boda Boda Fare Estimator** – Estimates the total fare for a boda boda ride based on distance.
 3. **Transaction Fee Estimator** – Calculates mobile transaction fees with minimum and maximum limits applied.
 
-#Project Setup
+**#Project Setup**
 This repository includes three separate JavaScript files, each containing a working solution to each challenge. 
 
 **#How to run the solutions**
