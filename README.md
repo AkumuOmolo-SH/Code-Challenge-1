@@ -30,6 +30,21 @@ This repository includes three separate JavaScript files, each containing a work
 
 github.com/AkumuOmolo-SH/Code-Challenge-1
 
+\\\
+**#Project Structure**
+Code-Challenge-1/
+├── chaiCalculator/
+│   └── chai.js             # Calculates ingredients for Kenyan Chai based on number of cups
+│
+├── bodaFareCalculator/
+│   └── fare.js             # Estimates boda boda fare based on distance
+│
+├── mobileMoneyEstimator/
+│   └── fee.js              # Calculates mobile money transaction fees based on amount
+│
+└── README.md               # Project overview and setup instructions
+\\\
+
 ##  Author &  License
 
 **Author:** [Akumu Omolo](https://github.com/AkumuOmolo-SH)
