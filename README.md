@@ -14,6 +14,7 @@ This repository includes JavaScript programs developed for Phase-01, Code challe
 3. **Transaction Fee Estimator** – Calculates mobile transaction fees with minimum and maximum limits applied.
 
 **#Project Setup**
+
 This repository includes three separate JavaScript files, each containing a working solution to each challenge. 
 
 **#How to run the solutions**
